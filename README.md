@@ -1,2 +1,2 @@
-# goRed
-A Reddis CLI Tool based on go
+# goCrack
+John The Ripper type Password Cracker in Go.
