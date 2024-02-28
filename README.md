@@ -1,2 +1,2 @@
-# goCrack
-John The Ripper type Password Cracker in Go.
+# decryptiPy
+A python-based password cracker similar to JohnTheRipper in Kali Linux
